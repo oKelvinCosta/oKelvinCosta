@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oKelvinCosta
-- 👀 I’m interested in *Concept art for Games*
+- 👀 I’m interested in *Design and Technology*
 - 📫 How to reach me *okelvincosta@gmail.com*
-- Portfolio: https://www.artstation.com/kelvincosta
+- Portfolio: https://www.behance.net/okelvincosta
 
 <!---
 oKelvinCosta/oKelvinCosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
