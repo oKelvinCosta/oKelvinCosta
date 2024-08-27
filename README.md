@@ -16,7 +16,7 @@
 **Frontend / Designer** \
 [**SESI**](https://www.spacex.com/) • Full-time \
 Languages & Technologies: `Vue 3`, `SCORM`, `JavaScript`, `HTML`, `SCSS`\
-Feature Projects: [Choices](https://sesiescolas.fiemg.com.br/unidade-extrema)
+Feature Projects: [Segurança no trabalho](https://okelvincosta.github.io/SST-02-Aplica-o-da-NR7-principais-aspectos/), [Choices](https://okelvincosta.github.io/a12-alimentacao-6ano-choices/)
 <br/>
 
 You can see more of my experience in my Linkedin: https://www.linkedin.com/in/okelvincosta
