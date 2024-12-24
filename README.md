@@ -1,13 +1,13 @@
 ### Kelvin Costa
 
-- 👋 Hi, I’m @oKelvinCosta
-- 👀 I’m interested in *Games, Technology, Art and Design*
-- Design Portfolio: https://www.behance.net/okelvincosta
-- Art Portfolio: https://www.behance.net/okelvincosta
+- 👋 Hi, 👀 I’m interested in *Games, Technology, Art and Design*
 
 
--  📨 Contact me: ⤵️
--  *okelvincosta@gmail.com*
+
+- [Design Portfolio](https://www.artstation.com/kelvincosta/)
+- [Art Portfolio](https://www.behance.net/okelvincosta/)
+
+-  ➡️ Contact me: *okelvincosta@gmail.com*
 
 ### Recent Work
 
@@ -16,10 +16,13 @@
 **Frontend / Designer** \
 [**SESI**](https://www.spacex.com/) • Full-time \
 Languages & Technologies: `Vue 3`, `SCORM`, `JavaScript`, `HTML`, `SCSS`\
-Feature Projects: [Segurança no trabalho](https://okelvincosta.github.io/SST-02-Aplica-o-da-NR7-principais-aspectos/), [Choices](https://okelvincosta.github.io/a12-alimentacao-6ano-choices/)
+Feature Projects: [Segurança no trabalho](https://okelvincosta.github.io/SST-02-Aplica-o-da-NR7-principais-aspectos/), [Choices](https://okelvincosta.github.io/a12-alimentacao-6ano-choices/), [ATE Adventures](https://github.com/SESI-NEAD-2024/ate-adventures-fase01/)
 <br/>
 
-You can see more of my experience in my Linkedin: https://www.linkedin.com/in/okelvincosta
+
+You can see more of my experience in my [Linkedin](https://www.linkedin.com/in/okelvincosta/)
+
+
 
 <!---
 oKelvinCosta/oKelvinCosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
