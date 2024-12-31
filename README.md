@@ -1,14 +1,19 @@
 ### Kelvin Costa
 
-- 👋 Hi, 👀 I’m interested in *Games, Technology, Art and Design*
+- 👋 Hi,
+- I am a frontend developer with 3 years of experience, specializing in creating responsive and functional interfaces. With experience as a *2D game artist* and *graphic designer*, I combine creativity and technical skills to deliver visually appealing and robust solutions, seamlessly integrating design and programming at every stage of development.
 
+- **Skills:** `HTML`, `CSS`, `JavaScript`, `Vue.js`, `Quasar`, `Sass`, `Gulp`, `SCORM`, `GDevelop`, `UI/Figma/Illustrator/Photoshop`, `3D`, `Concept Art/Illustration`
 
+- You can see more of my experience in my [Linkedin](https://www.linkedin.com/in/okelvincosta/)
 
 - [Design Portfolio](https://www.artstation.com/kelvincosta/)
 - [Art Portfolio](https://www.behance.net/okelvincosta/)
-- You can see more of my experience in my [Linkedin](https://www.linkedin.com/in/okelvincosta/)
+
 
 -  ➡️ Contact me: *okelvincosta@gmail.com*
+
+---
 
 ### Recent Work
 
@@ -40,7 +45,7 @@ Development of guidelines and interfaces for restructuring the institutional sys
 Development of guidelines and interfaces for restructuring the institutional system.
 <br/>
 **Languages & Technologies:** `Wordress`, `PHP`, `JS`, `UI`, `UI`, `UX`, `HTML`\
-**Feature Projects:** [Screenshoots](https://github.com/oKelvinCosta/evandomirra/)
+**Feature Projects:** [Fire Up Conference](https://www.behance.net/gallery/196260001/Fire-Up-Conference-Website), [Huna Summer](https://www.behance.net/gallery/77015239/UX-UI-Frontend-for-Course-Announcement-Huna-Summer), [Post Mortem](https://www.behance.net/gallery/57036463/UX-UI-Front-end-Post-Mortem)
 <br/>
 <br/>
 
