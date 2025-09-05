@@ -5,7 +5,7 @@
   Ex-**2D Game Artist** & **Graphic Designer** blending aesthetics + code.  
 
 ### 🔥 Why Work With Me?  
-- **Frontend Precision**: `React`, `Vue`, `SCSS`, `Gulp`  
+- **Frontend Precision**: `React`, `Next JS`, `Tailwind`, `SCSS`, `Gulp`  
 - **Design Fluency**: `Figma`, `Illustrator`, `Photoshop`, `3D/Concept Art`  
 - **Unique Edge**: SCORM e-learning dev + game design background (`GDevelop`)  
 
